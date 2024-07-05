@@ -46,7 +46,7 @@ function Header(){
               <nav className="main-nav">
                   {/* <!-- ***** Logo Start ***** --> */}
                   <a href="index.html" className="logo">
-                      <img src={image1} alt="kandam" style={{maxWidth: '112px'}}/>
+                      <img src={image1} alt="image" style={{maxWidth: '112px'}}/>
                   </a>
                   {/* <!-- ***** Logo End ***** -->
                   <!-- ***** Menu Start ***** --> */}
